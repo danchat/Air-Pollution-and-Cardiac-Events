@@ -2,9 +2,8 @@
 # Introduction
 
 The link between air-quality and heath outcomes has been known ,essentially, forever. More recently the link between less observable air quality measures and harmful health outcomes has been established (1).
-
-put https://github.com/AChezick/Capstone1/blob/main/images/180820-AIR-QUALITY-SKYLINE-CITYSCAPE-POLLUTION-WEATHER-COWX-KEVINJBEATY-02.jpg here
-image credit (Kevin J. Beaty/Denverite) (8) 
+![Denver Air Quality](https://raw.githubusercontent.com/AChezick/Capstone1/main/images/180820-AIR-QUALITY-SKYLINE-CITYSCAPE-POLLUTION-WEATHER-COWX-KEVINJBEATY-02.jpg)  
+*Image credit: Kevin J. Beaty/Denverite* (8) 
 
 ___ 
 
